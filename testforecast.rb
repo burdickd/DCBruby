@@ -6,7 +6,7 @@ require 'forecast_io'
 
 # set your personal API key to make HTTP request of developer.forecast.io site
 
-ForecastIO.api_key = '5c35ac8fe4f3e0bacaeabf8c0ecb51c6'
+ForecastIO.api_key = 'YOUR KEY HERE'
 
 # populate forecast array with Los Angeles (Longitude, Lattitude)
 # forecast = ForecastIO.forecast(37.8267, -122.423)
